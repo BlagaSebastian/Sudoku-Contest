@@ -35,7 +35,7 @@ const SIZE = 9;
             },
             success: function(text) {
                 document.getElementById("gameStatus").innerHTML = text;
-                document.getElementById("gameStatus").style.color = green;
+                document.getElementById("gameStatus").style.color = "green";
                 document.getElementById("submitButton").disabled = true;
             },
             error: function (jqXHR) {
