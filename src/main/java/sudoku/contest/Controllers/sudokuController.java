@@ -50,6 +50,6 @@ public class sudokuController {
             userRepo.save(user);
             return "Your solution is correct, congrats!";
         }
-        return "I'm afraid your solution is incorrect.";
+        return "I'm afraid your solution is incorrect, start another game.";
     }
 }
