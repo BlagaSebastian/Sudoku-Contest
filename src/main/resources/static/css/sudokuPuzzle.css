@@ -76,13 +76,13 @@ block7 {
 }
 
 #submitButton {
-    position:relative;
+    position:absolute;
     top: 50%;
     left: 18%
 }
 
 #restart {
-    position:relative;
-    top: 70%;
+    position:absolute;
+    top: 60%;
     left: 18%
 }
