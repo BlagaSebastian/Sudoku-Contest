@@ -82,7 +82,7 @@ block7 {
 }
 
 #restart {
-    position:absolute;
-    top: 52%;
+    position:relative;
+    top: 53%;
     left: 20%
 }
