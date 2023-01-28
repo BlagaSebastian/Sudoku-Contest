@@ -74,13 +74,3 @@
     top:432px;
     left:432px;
 }
-
-#submitButton {
-    position:relative;
-    top: 50%;
-}
-
-#restart {
-    position:relative;
-    top: 60%;
-}
